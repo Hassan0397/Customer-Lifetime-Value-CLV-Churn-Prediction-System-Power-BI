@@ -86,7 +86,7 @@ Built a **Star Schema**:
 
 ### 🟧 5. Executive Dashboard
 
-## Page 1 — Executive Overview
+## Page 1 — [Executive Overview](https://github.com/Hassan0397/Customer-Lifetime-Value-CLV-Churn-Prediction-System-Power-BI/blob/main/CLV%20%24%20Churn%20Risk%20Overview.png) 
 - **KPI Cards:** Total Revenue, Avg CLV, Avg Churn %, Revenue at Risk  
 - **Line Charts:** Purchases & NPS trends  
 - **Map:** Customer distribution by region  
