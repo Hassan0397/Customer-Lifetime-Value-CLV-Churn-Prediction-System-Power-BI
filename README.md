@@ -99,7 +99,7 @@ Built a **Star Schema**:
 
 ---
 
-## Page 3 — Drillthrough: Customer Profile
+## Page 3 — [Drillthrough: Customer Profile](https://github.com/Hassan0397/Customer-Lifetime-Value-CLV-Churn-Prediction-System-Power-BI/blob/main/Customer%20Profile.png)
 - Line chart: Purchase history  
 - Table: Support ticket history  
 - Table: NPS & feedback comments  
