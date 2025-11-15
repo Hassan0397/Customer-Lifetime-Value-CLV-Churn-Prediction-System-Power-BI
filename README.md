@@ -93,7 +93,7 @@ Built a **Star Schema**:
 
 ---
 
-## Page 2 — Customer Risk & Detail
+## Page 2 — [Customer Risk & Detail](https://github.com/Hassan0397/Customer-Lifetime-Value-CLV-Churn-Prediction-System-Power-BI/blob/main/Customer%20Details.png)
 - Customer-level table with CLV, Churn %, Revenue at Risk, Loyalty Score, Days Since Last Purchase  
 - Conditional formatting for high-risk customers  
 
